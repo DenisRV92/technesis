@@ -1,0 +1,31 @@
+.container {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+form {
+    margin: 10px;
+}
+
+form input {
+    height: 25px;
+    width: 30%;
+}
+
+form button {
+    width: 30px;
+    padding: 5px;
+}
+
+.image {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-block {
+    width: 23%;
+    height: auto;
+    object-fit: none;
+    border: 1px solid red;
+}
